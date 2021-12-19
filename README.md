@@ -1,0 +1,1 @@
+# BombSquad-Community-Plugin-Manager
