@@ -76,14 +76,14 @@
             "md5": "3ae55597b3d825ff9d8e943f92dc9629",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/BetterDeathmatch.py",
             "author": "@[Just] Freak#4999",
-            "description": "I'm very disappointed, had made a detailed video about this (that took me 2hr) . But accidentally deleted the video!! :cry~3: Anyways, Please Enjoy and give me more mod suggestions in \ud83d\udcacgeneral\ud83d\udcac . For 1.6, paste in BombSquad folder and add gamemode in Playlist! And make hundreds of different combos with this \ud83d\ude09"
+            "description": "Additional options for Death Match, make hundreds of different combos with this!"
         },
         "FrozenOne16": {
             "filename": "FrozenOne16.py",
             "md5": "3bc94523484064a264af766f66627f9c",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/FrozenOne16.py",
             "author": "@[Just] Freak#4999 (ported)",
-            "description": "Provides the Frozen-One mini-game."
+            "description": "Frozen-One mini-game!"
         },
         "particles_by_MJose_2": {
             "filename": "particles_by_MJose_2.py",
@@ -113,7 +113,7 @@
             "md5": "ad9cf14af9327c3a5f0a960932bf3027",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/VolleyBall.py",
             "author": "@[Just] Freak#4999",
-            "description": "Fixed puck's mass/size/positions/texture/effects. Fixed Goal positions. Better center wall..."
+            "description": "Awesome VolleyBall mini-game!"
         },
         "BatallaExtrema": {
             "filename": "BatallaExtrema.py",
@@ -141,7 +141,9 @@
         "IcyEmits16": {
             "filename": "IcyEmits16.py",
             "md5": "7e6009ec8a0f12e3f29676ac4e466721",
-            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/IcyEmits16.py"
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/IcyEmits16.py",
+            "author": "@[Just] Freak#4999",
+            "description": "Icy-Bombs are emitting from cold platform, supports MoreMinigames."
         },
         "NewHP": {
             "filename": "NewHP.py",
@@ -192,7 +194,7 @@
             "md5": "ae90cbd1b41d85764309f746284fb0b7",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/BetterElimination.py",
             "author": "@[Just] Freak#4999",
-            "description": "\u2022 Live Team Balance: During a match if a player leaves the game, his remaining life's will be given to a random teammate making it a FAIR match! (Thx to Nippy for this)\u2022 More options... "
+            "description": "Additional options for Elimination (like Live-Team-Balance, etc) "
         },
         "BombRainbow": {
             "filename": "BombRainbow.py",
@@ -305,7 +307,7 @@
             "md5": "8824d1c5f1e11c1aef81ff6e602bd329",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/InfiniteNinjas.py",
             "author": "@[Just] Freak#4999",
-            "description": "Infinite Ninjas, supports MoreMinigames."
+            "description": "Infinite Ninjas, supports MoreMinigames"
         },
         "alliance_elimination": {
             "filename": "alliance_elimination.py",
