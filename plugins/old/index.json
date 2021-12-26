@@ -1,0 +1,104 @@
+{
+    "mods": {
+        "EasyConnect164": {
+            "filename": "EasyConnect164.py",
+            "md5": "db2db6bcdff39459d4fc8125367bceda",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/EasyConnect164.py"
+        },
+        "MoreMinigames": {
+            "filename": "MoreMinigames.py",
+            "md5": "3e28601ab4caaa431cac5464e3800e58",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/MoreMinigames.py"
+        },
+        "FrozenOne16": {
+            "filename": "FrozenOne16.py",
+            "md5": "3bc94523484064a264af766f66627f9c",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/FrozenOne16.py"
+        },
+        "StoreEventSpecials2": {
+            "filename": "StoreEventSpecials2.py",
+            "md5": "84c931aace92e435100a3b1cc5d70d24",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/StoreEventSpecials2.py"
+        },
+        "VolleyBall": {
+            "filename": "VolleyBall.py",
+            "md5": "bf538c7030b9caa32087f281840afac2",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/VolleyBall.py"
+        },
+        "touchscreenControlSaver": {
+            "filename": "touchscreenControlSaver.py",
+            "md5": "9d8a305db34f920274382ac7e5760fa7",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/touchscreenControlSaver.py"
+        },
+        "Tag": {
+            "filename": "Tag.py",
+            "md5": "0b0523c05c95f23b5f7eface666ec234",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/Tag.py"
+        },
+        "SquidRace": {
+            "filename": "SquidRace.py",
+            "md5": "22d68cc3a0858fa853990a85a48bbf4e",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/SquidRace.py"
+        },
+        "Sticky_Loads": {
+            "filename": "Sticky_Loads.py",
+            "md5": "063cfc1cee635f2a3bd4de0afe411855",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/Sticky_Loads.py"
+        },
+        "TnT_Error": {
+            "filename": "TnT_Error.py",
+            "md5": "b18c28dba0693faf3ee4001b0196c521",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/TnT_Error.py"
+        },
+        "ZombieHorde": {
+            "filename": "ZombieHorde.py",
+            "md5": "b54bcba45716c44a9ec2104e6a0cc3b4",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/ZombieHorde.py"
+        },
+        "Server-Switch": {
+            "filename": "Server-Switch.py",
+            "md5": "17bdd690376c7deb3da27d4d65160cce",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/Server-Switch.py"
+        },
+        "ReplayManager": {
+            "filename": "ReplayManager.py",
+            "md5": "1fd1910e0027c4d7eea9b6b9fd9d70ed",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/ReplayManager.py"
+        },
+        "running_bombs": {
+            "filename": "running_bombs.py",
+            "md5": "d234580a04ae923e72c24d68b4e2d9da",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/running_bombs.py"
+        },
+        "soccer": {
+            "filename": "soccer.py",
+            "md5": "af1424818dae7b2f2d809e12d46508e6",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/soccer.py"
+        },
+        "baSmash": {
+            "filename": "baSmash.py",
+            "md5": "881247f2c6c99c1f08ac4f408aaf83fb",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/baSmash.py"
+        },
+        "CheatMenu": {
+            "filename": "CheatMenu.py",
+            "md5": "f604531b8a0d3bea42a5ce10b657fe77",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/CheatMenu.py"
+        },
+        "alliance_elimination": {
+            "filename": "alliance_elimination.py",
+            "md5": "bd44bd9e36e28c91a06cc47b87f6c70a",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/alliance_elimination.py"
+        },
+        "Infection": {
+            "filename": "Infection.py",
+            "md5": "ec1433c0763fd4d50275e3ce5c27e15d",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/Infection.py"
+        },
+        "squadgame_race": {
+            "filename": "squadgame_race.py",
+            "md5": "37c886533455a38e7b9e61ce9770fe97",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/squadgame_race.py"
+        }
+    }
+}
