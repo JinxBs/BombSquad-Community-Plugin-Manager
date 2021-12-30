@@ -5,6 +5,7 @@
             "md5": "1cef607d6d466f5b17ed1257b6f571df",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/Lame_Fight.py",
             "author": "byANG3L",
+            "category": "minigames",
             "requires": [
                 "MoreMinigames"
             ]
@@ -14,6 +15,7 @@
             "md5": "da880436365ce8cb1a228b4bc1466e32",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/baColorsMod.py",
             "author": "Froshlee14",
+            "category": "libraries",
             "description": "change spaz color"
         },
         "OnlyNight": {
@@ -21,12 +23,14 @@
             "md5": "70293fc031bb861707d9c900a3e872ff",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/OnlyNight.py",
             "author": "byANG3L",
+            "category": "libraries",
             "description": "Night mode. Also known as Modo Noche"
         },
         "BuddyBunny": {
             "filename": "BuddyBunny.py",
             "md5": "36aa6ed64676dbf68fe70945dd2ac67b",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/BuddyBunny.py",
+            "category": "libraries",
             "author": "joshville79"
         },
         "FlotatingMine": {
@@ -41,6 +45,7 @@
             "md5": "0faa4c2518663fd6cbb0ed843274650c",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/AdvancedPartyWindow16.py",
             "author": "mr.smoothy(Discord: mr.smoothy#5824)",
+            "category": "utilities",
             "description": "Extended version of ModifyPartyWindow(by Plasma boson). Full screen chat mode. Custom mute."
         },
         "MoreTeams": {
@@ -48,6 +53,7 @@
             "md5": "aa253ad6a3e9daaaae921c1e5b66adfe",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/MoreTeams.py",
             "author": "byANG3L",
+            "category": "libraries",
             "description": "Now play with 4 teams in 1.6 of Bombsquad."
         },
         "UltraPartyWindowReloadedv2": {
@@ -55,6 +61,7 @@
             "md5": "da53e5e84e5c376feed22496d1277277",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/UltraPartyWindowReloadedv2.py",
             "author": "Droopy(Discord: Droopy#3730)",
+            "category": "utilities",
             "description": "Added Status Feature. You can see your ur friend's status . If you set your status 'Offline' , you wont be able to see others status. ( Wanna see others status?? Show ur status and see others .... You noob)"
         },
         "MoreMinigames": {
@@ -62,6 +69,7 @@
             "md5": "266ba7dd13e9197d294ee7677eb7e900",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/MoreMinigames.py",
             "author": "byANG3L",
+            "category": "utilities",
             "description": "allows to add new mini games for single-player and co-op"
         },
         "baBall": {
@@ -69,6 +77,7 @@
             "md5": "0e6c04e8eec7815357012489c43d6cb4",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/baBall.py",
             "author": "patronmods",
+            "category": "minigames",
             "description": "This was released today. I didn't try this mod so go try it on your own. I don't know how this mod works"
         },
         "BetterDeathmatch": {
@@ -76,6 +85,7 @@
             "md5": "3ae55597b3d825ff9d8e943f92dc9629",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/BetterDeathmatch.py",
             "author": "@[Just] Freak#4999",
+            "category": "minigames",
             "description": "I'm very disappointed, had made a detailed video about this (that took me 2hr) . But accidentally deleted the video!! :cry~3: Anyways, Please Enjoy and give me more mod suggestions in \ud83d\udcacgeneral\ud83d\udcac . For 1.6, paste in BombSquad folder and add gamemode in Playlist! And make hundreds of different combos with this \ud83d\ude09"
         },
         "FrozenOne16": {
@@ -83,6 +93,7 @@
             "md5": "3bc94523484064a264af766f66627f9c",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/FrozenOne16.py",
             "author": "@[Just] Freak#4999 (ported)",
+            "category": "minigames",
             "description": "Provides the Frozen-One mini-game."
         },
         "particles_by_MJose_2": {
@@ -90,6 +101,7 @@
             "md5": "4e16583e66a4a2fef31fd84828b71a6a",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/particles_by_MJose_2.py",
             "author": "MJose",
+            "category": "libraries",
             "description": "player emit shiny particles"
         },
         "FullStore": {
@@ -97,6 +109,7 @@
             "md5": "ffb59560cf6ca7493cbbdd17173ff74d",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/FullStore.py",
             "author": "byANG3L",
+            "category": "utilities",
             "description": "Also known as Tienda Completa."
         },
         "Explodo_Run": {
@@ -104,6 +117,7 @@
             "md5": "8db138843f50b81c0947dcb2eef64543",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/Explodo_Run.py",
             "author": "byANG3L",
+            "category": "minigames",
             "requires": [
                 "MoreMinigames"
             ]
@@ -113,6 +127,7 @@
             "md5": "ad9cf14af9327c3a5f0a960932bf3027",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/VolleyBall.py",
             "author": "@[Just] Freak#4999",
+            "category": "minigames",
             "description": "Fixed puck's mass/size/positions/texture/effects. Fixed Goal positions. Better center wall..."
         },
         "BatallaExtrema": {
@@ -120,6 +135,7 @@
             "md5": "25cd1905022e158db326d05b3569231d",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/BatallaExtrema.py",
             "author": "byANG3L",
+            "category": "minigames",
             "requires": [
                 "MoreMinigames"
             ]
@@ -129,6 +145,7 @@
             "md5": "9d8a305db34f920274382ac7e5760fa7",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/touchscreenControlSaver.py",
             "author": "Droopy(Discord: Droopy#3730)",
+            "category": "utilities",
             "description": "To save and load , size and position of ur touch screen controls."
         },
         "CharacterBuilder2": {
@@ -136,11 +153,13 @@
             "md5": "78d3c35537c61b5f75007cdf3acbb30a",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/CharacterBuilder2.py",
             "author": "mr.smoothy(Discord: mr.smoothy#5824)",
+            "category": "utilities",
             "description": "Character Maker"
         },
         "IcyEmits16": {
             "filename": "IcyEmits16.py",
             "md5": "7e6009ec8a0f12e3f29676ac4e466721",
+            "category": "minigames",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/IcyEmits16.py"
         },
         "NewHP": {
@@ -148,11 +167,13 @@
             "md5": "cdf24618fea20c642f2ca2a356d0e72e",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/NewHP.py",
             "author": "byANG3L",
+            "category": "libraries",
             "description": "display health percentage. Also known as Nueva Vida %"
         },
         "SquidRace": {
             "filename": "SquidRace.py",
             "md5": "22d68cc3a0858fa853990a85a48bbf4e",
+            "category": "minigames",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/SquidRace.py",
             "author": "byANG3L"
         },
@@ -161,12 +182,14 @@
             "md5": "bfaa76e72046e5b12273766203c4b6f3",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/AccountName.py",
             "author": "byANG3L",
+            "category": "utilities",
             "description": "Change color of account name. Also known as Nombre Personalizado"
         },
         "Sticky_Loads": {
             "filename": "Sticky_Loads.py",
             "md5": "063cfc1cee635f2a3bd4de0afe411855",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/Sticky_Loads.py",
+            "category": "minigames",
             "author": "byANG3L",
             "requires": [
                 "MoreMinigames"
@@ -176,6 +199,7 @@
             "filename": "TnT_Error.py",
             "md5": "b18c28dba0693faf3ee4001b0196c521",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/TnT_Error.py",
+            "category": "minigames",
             "author": "byANG3L",
             "requires": [
                 "MoreMinigames"
@@ -185,6 +209,7 @@
             "filename": "ZombieHorde.py",
             "md5": "b54bcba45716c44a9ec2104e6a0cc3b4",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/ZombieHorde.py",
+            "category": "minigames",
             "author": "byANG3L"
         },
         "BetterElimination": {
@@ -192,6 +217,7 @@
             "md5": "ae90cbd1b41d85764309f746284fb0b7",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/BetterElimination.py",
             "author": "@[Just] Freak#4999",
+            "category": "minigames",
             "description": "\u2022 Live Team Balance: During a match if a player leaves the game, his remaining life's will be given to a random teammate making it a FAIR match! (Thx to Nippy for this)\u2022 More options... "
         },
         "BombRainbow": {
@@ -199,6 +225,7 @@
             "md5": "5c1d775cd8268fec52bd3f55f6c25b0a",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/BombRainbow.py",
             "author": "byANG3L",
+            "category": "minigames",
             "description": "colorful bombs"
         },
         "NewDuel": {
@@ -206,6 +233,7 @@
             "md5": "398dd98a1b7ba4c360624838c205f115",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/NewDuel.py",
             "author": "byANG3L",
+            "category": "minigames",
             "requires": [
                 "MoreMinigames"
             ]
@@ -215,18 +243,21 @@
             "md5": "51e5d5b34b5a22621c6de8015dd9a313",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/SkinPack1.py",
             "author": "mr.smoothy(Discord: mr.smoothy#5824)",
+            "category": "utilities",
             "description": "dark and pink theme"
         },
         "PlaylistsPro": {
             "filename": "PlaylistsPro.py",
             "md5": "c67bb005acfed39bc6277dbe14895682",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/PlaylistsPro.py",
+            "category": "utilities",
             "author": "byANG3L"
         },
         "SuperSmash": {
             "filename": "SuperSmash.py",
             "md5": "41af301b9236166bf1b3a5d9678ecb8f",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/SuperSmash.py",
+            "category": "minigames",
             "author": "byANG3L"
         },
         "SuperDuel": {
@@ -234,6 +265,7 @@
             "md5": "be7934ed5e6b6d11e374452c3bc862d7",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/SuperDuel.py",
             "author": "byANG3L",
+            "category": "minigames",
             "requires": [
                 "MoreMinigames"
             ]
@@ -242,6 +274,7 @@
             "filename": "AtomicBomb.py",
             "md5": "6dfb67fab34a01674038055c1b33bf61",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/AtomicBomb.py",
+            "category": "minigames",
             "author": "byANG3L"
         },
         "Infection": {
@@ -249,6 +282,7 @@
             "md5": "ec1433c0763fd4d50275e3ce5c27e15d",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/Infection.py",
             "author": "byANG3L",
+            "category": "minigames",
             "requires": [
                 "MoreMinigames"
             ]
@@ -258,6 +292,7 @@
             "md5": "8a59363bd822ffde4c3973014500af71",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/DiscordRP.py",
             "author": "mr.smoothy(Discord: mr.smoothy#5824)",
+            "category": "utilities",
             "description": "only works for PC. Wherever u play, leave your presence."
         },
         "ColorScheme": {
@@ -265,6 +300,7 @@
             "md5": "bfa6b0cfce0aecce9705c89915973753",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/ColorScheme.py",
             "author": "Rikko(Discord: Rikko#7383)",
+            "category": "utilities",
             "description": "create custom colorschemes. Enable the plugin and enter colorscheme after going into game's Settings -> Advanced -> Enter Code to select the colors."
         },
         "quickturn": {
@@ -272,6 +308,7 @@
             "md5": "2c8d994665157f3b9921ce01ff80a96d",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/quickturn.py",
             "author": "TheMikirog",
+            "category": "libraries",
             "description": "Wavedash. This is an early version of the plugin. Feedback appreciated! Version 2"
         },
         "CharacterChooser": {
@@ -279,12 +316,14 @@
             "md5": "1682e6ca0e1f03ca1ac9a26109e92896",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/CharacterChooser.py",
             "author": "mr.smoothy(Discord: mr.smoothy#5824)",
+            "category": "utilities",
             "description": "This plugin will let you choose your character from lobby. Install this plugin on your Phone/PC  or on Server. If installed on server :- this will also let players choose server specific custom characters . so no more sharing of character file with all players, just install this plugin on server ...and players can pick character from lobby ."
         },
         "soccer": {
             "filename": "soccer.py",
             "md5": "af1424818dae7b2f2d809e12d46508e6",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/soccer.py",
+            "category": "minigames",
             "author": "Stary_Agent"
         },
         "running_bombs": {
@@ -292,19 +331,23 @@
             "md5": "d234580a04ae923e72c24d68b4e2d9da",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/running_bombs.py",
             "author": "FakeBlitz (Discord: UnKnowNLeGenD#6715)",
+            "category": "minigames",
             "description": "Dodge The Running Bombs. Running Bombs Version 1.2 | Everything's Same As Before, It's Hard To Survive now, Explore, by playing it."
         },
         "snowfallModz": {
             "filename": "snowfallModz.py",
             "md5": "fe230c4ce6dbb4aebe8c8fac8abf24de",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/snowfallModz.py",
+            "category": "minigames",
             "author": "nazmibombsquad (Discord: nazmibombsquad#8100)"
+            
         },
         "InfiniteNinjas": {
             "filename": "InfiniteNinjas.py",
             "md5": "8824d1c5f1e11c1aef81ff6e602bd329",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/InfiniteNinjas.py",
             "author": "@[Just] Freak#4999",
+            "category": "minigames",
             "description": "Infinite Ninjas, supports MoreMinigames."
         },
         "alliance_elimination": {
@@ -312,6 +355,7 @@
             "md5": "bd44bd9e36e28c91a06cc47b87f6c70a",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/alliance_elimination.py",
             "author": "Rikko(Discord: Rikko#7383)",
+            "category": "minigames",
             "description": "like duo elimination, but has a new setting for trio, quadro, etc. for v1.6"
         },
         "TowerD-Unlocked": {
@@ -319,6 +363,7 @@
             "md5": "914da52094bccf1101ebb855f0d12efc",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/TowerD-Unlocked.py",
             "author": "@[Just] Freak#4999",
+            "category": "libraries",
             "description": "Unlock TowerD Map"
         }
     }
