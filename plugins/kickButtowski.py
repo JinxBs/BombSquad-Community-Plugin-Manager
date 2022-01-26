@@ -6,87 +6,87 @@ package_name = 'kickButtowski'
 package_files = {
     "kickButtowskiColor.dds": {
         "md5": "50380311c2daa13f263bbdb9d7e83f4a",
-        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Maps/kickButtowski/kickButtowskiColor.dds",
+        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Characters/kickButtowski/kickButtowskiColor.dds",
         "target": "ba_data/textures/kickButtowskiColor.dds"
     },
     "kickButtowskiColorMask.ktx": {
         "md5": "60b0b271bb55b7a9536ff6ac0a270d16",
-        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Maps/kickButtowski/kickButtowskiColorMask.ktx",
+        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Characters/kickButtowski/kickButtowskiColorMask.ktx",
         "target": "ba_data/textures/kickButtowskiColorMask.ktx"
     },
     "kickButtowskiIconColor.dds": {
         "md5": "d0eaf23084a6b66b0e7bfad7f274435b",
-        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Maps/kickButtowski/kickButtowskiIconColor.dds",
+        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Characters/kickButtowski/kickButtowskiIconColor.dds",
         "target": "ba_data/textures/kickButtowskiIconColor.dds"
     },
     "kickButtowskiForeArm.bob": {
         "md5": "cb21878ddd99e70b9a6e0b66aadd54b1",
-        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Maps/kickButtowski/kickButtowskiForeArm.bob",
+        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Characters/kickButtowski/kickButtowskiForeArm.bob",
         "target": "ba_data/models/kickButtowskiForeArm.bob"
     },
     "kickButtowskiPelvis.bob": {
         "md5": "76004b6d8b924403429fcfd65cf7b5c9",
-        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Maps/kickButtowski/kickButtowskiPelvis.bob",
+        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Characters/kickButtowski/kickButtowskiPelvis.bob",
         "target": "ba_data/models/kickButtowskiPelvis.bob"
     },
     "kickButtowskiLowerLeg.bob": {
         "md5": "32112cf45b662fda209015bf9593820a",
-        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Maps/kickButtowski/kickButtowskiLowerLeg.bob",
+        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Characters/kickButtowski/kickButtowskiLowerLeg.bob",
         "target": "ba_data/models/kickButtowskiLowerLeg.bob"
     },
     "kickButtowskiIconColor.ktx": {
         "md5": "95826128a5fdc020c01f304614fb7df3",
-        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Maps/kickButtowski/kickButtowskiIconColor.ktx",
+        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Characters/kickButtowski/kickButtowskiIconColor.ktx",
         "target": "ba_data/textures/kickButtowskiIconColor.ktx"
     },
     "kickButtowskiUpperLeg.bob": {
         "md5": "4c4273584020a0a8bf1b36154882ea2c",
-        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Maps/kickButtowski/kickButtowskiUpperLeg.bob",
+        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Characters/kickButtowski/kickButtowskiUpperLeg.bob",
         "target": "ba_data/models/kickButtowskiUpperLeg.bob"
     },
     "kickButtowskiIconColorMask.ktx": {
         "md5": "a800a05fc1817a4449cbd23e64e4a19c",
-        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Maps/kickButtowski/kickButtowskiIconColorMask.ktx",
+        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Characters/kickButtowski/kickButtowskiIconColorMask.ktx",
         "target": "ba_data/textures/kickButtowskiIconColorMask.ktx"
     },
     "kickButtowskiColorMask.dds": {
         "md5": "23186fd7d6d49c317717ee5a443caa5b",
-        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Maps/kickButtowski/kickButtowskiColorMask.dds",
+        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Characters/kickButtowski/kickButtowskiColorMask.dds",
         "target": "ba_data/textures/kickButtowskiColorMask.dds"
     },
     "kickButtowskiTorso.bob": {
         "md5": "374810d3712fcf6c009c7a1638a1489b",
-        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Maps/kickButtowski/kickButtowskiTorso.bob",
+        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Characters/kickButtowski/kickButtowskiTorso.bob",
         "target": "ba_data/models/kickButtowskiTorso.bob"
     },
     "kickButtowskiToes.bob": {
         "md5": "a6eccf104e5c6e1b06caae6b92c8959d",
-        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Maps/kickButtowski/kickButtowskiToes.bob",
+        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Characters/kickButtowski/kickButtowskiToes.bob",
         "target": "ba_data/models/kickButtowskiToes.bob"
     },
     "kickButtowskiIconColorMask.dds": {
         "md5": "985ac5202b26176ecf98e57c7c5df2fb",
-        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Maps/kickButtowski/kickButtowskiIconColorMask.dds",
+        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Characters/kickButtowski/kickButtowskiIconColorMask.dds",
         "target": "ba_data/textures/kickButtowskiIconColorMask.dds"
     },
     "kickButtowskiColor.ktx": {
         "md5": "ab8f4c098097d8100ab1866a2ab42b48",
-        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Maps/kickButtowski/kickButtowskiColor.ktx",
+        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Characters/kickButtowski/kickButtowskiColor.ktx",
         "target": "ba_data/textures/kickButtowskiColor.ktx"
     },
     "kickButtowskiUpperArm.bob": {
         "md5": "bd702df0b88d44da50156d7bfe2e59a3",
-        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Maps/kickButtowski/kickButtowskiUpperArm.bob",
+        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Characters/kickButtowski/kickButtowskiUpperArm.bob",
         "target": "ba_data/models/kickButtowskiUpperArm.bob"
     },
     "kickButtowskiHand.bob": {
         "md5": "ffac36f94885636b821c8a2cbf51c1f0",
-        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Maps/kickButtowski/kickButtowskiHand.bob",
+        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Characters/kickButtowski/kickButtowskiHand.bob",
         "target": "ba_data/models/kickButtowskiHand.bob"
     },
     "kickButtowskiHead.bob": {
         "md5": "273eb56077529c17bf315f1e809c04c9",
-        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Maps/kickButtowski/kickButtowskiHead.bob",
+        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Characters/kickButtowski/kickButtowskiHead.bob",
         "target": "ba_data/models/kickButtowskiHead.bob"
     }
 }

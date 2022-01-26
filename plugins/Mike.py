@@ -6,57 +6,57 @@ package_name = 'Mike'
 package_files = {
     "mikeForeArm.bob": {
         "md5": "e5dabd98868edbf22089e128e62d9fdf",
-        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Maps/Mike/mikeForeArm.bob",
+        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Characters/Mike/mikeForeArm.bob",
         "target": "ba_data/models/mikeForeArm.bob"
     },
     "mikeTorso.bob": {
         "md5": "0be35e2c0e7ae583a9b1690f72fe7166",
-        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Maps/Mike/mikeTorso.bob",
+        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Characters/Mike/mikeTorso.bob",
         "target": "ba_data/models/mikeTorso.bob"
     },
     "mikeColor.dds": {
         "md5": "846fc8bad9a6b84a43d5d94a064752a6",
-        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Maps/Mike/mikeColor.dds",
+        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Characters/Mike/mikeColor.dds",
         "target": "ba_data/textures/mikeColor.dds"
     },
     "mikeLowerLeg.bob": {
         "md5": "582563dc1d4f34aedf840428c4302d8f",
-        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Maps/Mike/mikeLowerLeg.bob",
+        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Characters/Mike/mikeLowerLeg.bob",
         "target": "ba_data/models/mikeLowerLeg.bob"
     },
     "mikeUpperLeg.bob": {
         "md5": "5ca2b9900732649bae9ea8008ac08b3a",
-        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Maps/Mike/mikeUpperLeg.bob",
+        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Characters/Mike/mikeUpperLeg.bob",
         "target": "ba_data/models/mikeUpperLeg.bob"
     },
     "mikeHand.bob": {
         "md5": "3d6f461ec07349e29e568048f6f74244",
-        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Maps/Mike/mikeHand.bob",
+        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Characters/Mike/mikeHand.bob",
         "target": "ba_data/models/mikeHand.bob"
     },
     "empty.bob": {
         "md5": "e5c115a85ca2415c5ddbb27b543d6bf8",
-        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Maps/Mike/empty.bob",
+        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Characters/Mike/empty.bob",
         "target": "ba_data/models/empty.bob"
     },
     "mikeIconColor.dds": {
         "md5": "02b5f90ad2a01e7a47d452639c859ebb",
-        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Maps/Mike/mikeIconColor.dds",
+        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Characters/Mike/mikeIconColor.dds",
         "target": "ba_data/textures/mikeIconColor.dds"
     },
     "mikeIconColor.ktx": {
         "md5": "19098795905943427921acf4edc30f31",
-        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Maps/Mike/mikeIconColor.ktx",
+        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Characters/Mike/mikeIconColor.ktx",
         "target": "ba_data/textures/mikeIconColor.ktx"
     },
     "mikeUpperArm.bob": {
         "md5": "7529ab90b0839d6f17ff485c2f8748b6",
-        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Maps/Mike/mikeUpperArm.bob",
+        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Characters/Mike/mikeUpperArm.bob",
         "target": "ba_data/models/mikeUpperArm.bob"
     },
     "mikeColor.ktx": {
         "md5": "d49ebdfb507803bd470e26a326979da6",
-        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Maps/Mike/mikeColor.ktx",
+        "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/main/Characters/Mike/mikeColor.ktx",
         "target": "ba_data/textures/mikeColor.ktx"
     }
 }
