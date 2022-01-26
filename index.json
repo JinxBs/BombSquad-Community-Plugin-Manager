@@ -451,6 +451,83 @@
             "requires": [
                 "PackInstaller"
             ]
+        },
+        "guardianMap": {
+            "filename": "guardianMap.py",
+            "md5": "c5eebedf76152ed70501db3ce08e6775",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/guardianMap.py",
+            "author": "byAng3l",
+            "category": "map/character",
+            "description": "Map",
+            "requires": [
+                "PackInstaller"
+            ]
+        },
+        "halloweenMap": {
+            "filename": "halloweenMap.py",
+            "md5": "bc98d2f6feac5b6c6e9c394b88c01ce1",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/halloweenMap.py",
+            "author": "byAng3l",
+            "category": "map/character",
+            "description": "Map",
+            "requires": [
+                "PackInstaller"
+            ]
+        },
+        "iceMap": {
+            "filename": "iceMap.py",
+            "md5": "8a793080fa1b4f4ba115921bdbae81eb",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/iceMap.py",
+            "author": "byAng3l",
+            "category": "map/character",
+            "description": "Map",
+            "requires": [
+                "PackInstaller"
+            ]
+        },
+        "krustyKrabMap": {
+            "filename": "krustyKrabMap.py",
+            "md5": "c202ccf1a2719e5585af06c3e6e08f6a",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/krustyKrabMap.py",
+            "author": "byAng3l",
+            "category": "map/character",
+            "description": "Map",
+            "requires": [
+                "PackInstaller"
+            ]
+        },
+        "mapPicnic": {
+            "filename": "mapPicnic.py",
+            "md5": "25d086dbdb7d28bfbda4e6aa734927e4",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/mapPicnic.py",
+            "author": "byAng3l",
+            "category": "map/character",
+            "description": "Map",
+            "requires": [
+                "PackInstaller"
+            ]
+        },
+        "MarioWorldMap": {
+            "filename": "MarioWorldMap.py",
+            "md5": "c59bf564fb80c5801c47d2668c810cef",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/MarioWorldMap.py",
+            "author": "byAng3l",
+            "category": "map/character",
+            "description": "Map",
+            "requires": [
+                "PackInstaller"
+            ]
+        },
+        "pacmanMap": {
+            "filename": "pacmanMap.py",
+            "md5": "0c7f5200038933a684d5ae55c29891f6",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/pacmanMap.py",
+            "author": "byAng3l",
+            "category": "map/character",
+            "description": "Map",
+            "requires": [
+                "PackInstaller"
+            ]
         }
     }
 }
