@@ -528,6 +528,138 @@
             "requires": [
                 "PackInstaller"
             ]
+        },
+        "platano": {
+            "filename": "platano.py",
+            "md5": "e617e361cd90038933893c69b2bd9f05",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/platano.py",
+            "author": "byAng3l",
+            "category": "map/character",
+            "description": "Character",
+            "requires": [
+                "PackInstaller"
+            ]
+        },
+        "boris": {
+            "filename": "boris.py",
+            "md5": "7678cc648a8b5e2cf3ac14a6f7e864cb",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/boris.py",
+            "author": "byAng3l",
+            "category": "map/character",
+            "description": "Character",
+            "requires": [
+                "PackInstaller"
+            ]
+        },
+        "godzilla": {
+            "filename": "godzilla.py",
+            "md5": "bf538cc70d949d8b3f173f945691c455",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/godzilla.py",
+            "author": "byAng3l",
+            "category": "map/character",
+            "description": "Character",
+            "requires": [
+                "PackInstaller"
+            ]
+        },
+        "henryStickmin": {
+            "filename": "henryStickmin.py",
+            "md5": "eea9444bfc1b491122548d51bb2bd1e6",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/henryStickmin.py",
+            "author": "byAng3l",
+            "category": "map/character",
+            "description": "Character",
+            "requires": [
+                "PackInstaller"
+            ]
+        },
+        "huggyWuggy": {
+            "filename": "huggyWuggy.py",
+            "md5": "265c0fe1d4bdc4691cfbe9e369102f02",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/huggyWuggy.py",
+            "author": "byAng3l",
+            "category": "map/character",
+            "description": "Character",
+            "requires": [
+                "PackInstaller"
+            ]
+        },
+        "kickButtowski": {
+            "filename": "kickButtowski.py",
+            "md5": "3f22a88e4915a31a4a683ba5ee214a1a",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/kickButtowski.py",
+            "author": "byAng3l",
+            "category": "map/character",
+            "description": "Character",
+            "requires": [
+                "PackInstaller"
+            ]
+        },
+        "masterChief": {
+            "filename": "masterChief.py",
+            "md5": "559ee2a5795e44967dd3ae591d169f60",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/masterChief.py",
+            "author": "byAng3l",
+            "category": "map/character",
+            "description": "Character",
+            "requires": [
+                "PackInstaller"
+            ]
+        },
+        "maxSteel": {
+            "filename": "maxSteel.py",
+            "md5": "7f2c9159fd8780e20cba9f9dada6170e",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/maxSteel.py",
+            "author": "byAng3l",
+            "category": "map/character",
+            "description": "Character",
+            "requires": [
+                "PackInstaller"
+            ]
+        },
+        "megumin": {
+            "filename": "megumin.py",
+            "md5": "6a565f2b3e1c606aa225a9fc134462f5",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/megumin.py",
+            "author": "byAng3l",
+            "category": "map/character",
+            "description": "Character",
+            "requires": [
+                "PackInstaller"
+            ]
+        },
+        "Mike": {
+            "filename": "Mike.py",
+            "md5": "501b5493211489a13573f8952c47b3a0",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/Mike.py",
+            "author": "byAng3l",
+            "category": "map/character",
+            "description": "Character",
+            "requires": [
+                "PackInstaller"
+            ]
+        },
+        "octane": {
+            "filename": "octane.py",
+            "md5": "f74d00c020b68b8486540e9c2c36d3f6",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/octane.py",
+            "author": "byAng3l",
+            "category": "map/character",
+            "description": "Character",
+            "requires": [
+                "PackInstaller"
+            ]
+        },
+        "samusAran": {
+            "filename": "samusAran.py",
+            "md5": "df5326100ed3e51a8ac95a73aa7065ef",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/samusAran.py",
+            "author": "byAng3l",
+            "category": "map/character",
+            "description": "Character",
+            "requires": [
+                "PackInstaller"
+            ]
         }
     }
 }
