@@ -15,7 +15,6 @@
             "md5": "da880436365ce8cb1a228b4bc1466e32",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/baColorsMod.py",
             "author": "Froshlee14",
-            "category": "libraries",
             "description": "change spaz color"
         },
         "OnlyNight": {
@@ -23,14 +22,12 @@
             "md5": "70293fc031bb861707d9c900a3e872ff",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/OnlyNight.py",
             "author": "byANG3L",
-            "category": "libraries",
             "description": "Night mode. Also known as Modo Noche"
         },
         "BuddyBunny": {
             "filename": "BuddyBunny.py",
             "md5": "36aa6ed64676dbf68fe70945dd2ac67b",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/BuddyBunny.py",
-            "category": "libraries",
             "author": "joshville79"
         },
         "FlotatingMine": {
@@ -53,7 +50,6 @@
             "md5": "aa253ad6a3e9daaaae921c1e5b66adfe",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/MoreTeams.py",
             "author": "byANG3L",
-            "category": "libraries",
             "description": "Now play with 4 teams in 1.6 of Bombsquad."
         },
         "UltraPartyWindowReloadedv2": {
@@ -101,7 +97,6 @@
             "md5": "4e16583e66a4a2fef31fd84828b71a6a",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/particles_by_MJose_2.py",
             "author": "MJose",
-            "category": "libraries",
             "description": "player emit shiny particles"
         },
         "FullStore": {
@@ -167,7 +162,6 @@
             "md5": "cdf24618fea20c642f2ca2a356d0e72e",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/NewHP.py",
             "author": "byANG3L",
-            "category": "libraries",
             "description": "display health percentage. Also known as Nueva Vida %"
         },
         "SquidRace": {
@@ -308,7 +302,6 @@
             "md5": "2c8d994665157f3b9921ce01ff80a96d",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/quickturn.py",
             "author": "TheMikirog",
-            "category": "libraries",
             "description": "Wavedash. This is an early version of the plugin. Feedback appreciated! Version 2"
         },
         "CharacterChooser": {
@@ -340,7 +333,6 @@
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/snowfallModz.py",
             "category": "minigames",
             "author": "nazmibombsquad (Discord: nazmibombsquad#8100)"
-            
         },
         "InfiniteNinjas": {
             "filename": "InfiniteNinjas.py",
@@ -363,8 +355,102 @@
             "md5": "914da52094bccf1101ebb855f0d12efc",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/TowerD-Unlocked.py",
             "author": "@[Just] Freak#4999",
-            "category": "libraries",
             "description": "Unlock TowerD Map"
+        },
+        "PackInstaller": {
+            "filename": "PackInstaller.py",
+            "md5": "dfb5d28c2b3f5b2cce95b7429f58a9cd",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/PackInstaller.py",
+            "author": "Jinx",
+            "description": "Installs files from remote server."
+        },
+        "bikiniBottomMap": {
+            "filename": "bikiniBottomMap.py",
+            "md5": "7d90d1be62fc2be425ee8741eed6afb4",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/bikiniBottomMap.py",
+            "author": "byAng3l",
+            "category": "map/character",
+            "description": "Map",
+            "requires": [
+                "PackInstaller"
+            ]
+        },
+        "bombermanMap": {
+            "filename": "bombermanMap.py",
+            "md5": "ffa3182bf2e027dd69cee04650859658",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/bombermanMap.py",
+            "author": "byAng3l",
+            "category": "map/character",
+            "description": "Map",
+            "requires": [
+                "PackInstaller"
+            ]
+        },
+        "courageMap": {
+            "filename": "courageMap.py",
+            "md5": "4c5c1b2d18150851e09d74edbd53598d",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/courageMap.py",
+            "author": "byAng3l",
+            "category": "map/character",
+            "description": "Map",
+            "requires": [
+                "PackInstaller"
+            ]
+        },
+        "cragcastleMap": {
+            "filename": "cragcastleMap.py",
+            "md5": "9f01af7ae1ab5fdbdbf582f7410e2565",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/cragcastleMap.py",
+            "author": "byAng3l",
+            "category": "map/character",
+            "description": "Map",
+            "requires": [
+                "PackInstaller"
+            ]
+        },
+        "dreamlandMap": {
+            "filename": "dreamlandMap.py",
+            "md5": "ddfae8e0ba20319489c5a3a377e96be0",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/dreamlandMap.py",
+            "author": "byAng3l",
+            "category": "map/character",
+            "description": "Map",
+            "requires": [
+                "PackInstaller"
+            ]
+        },
+        "eliminationChamberRaw": {
+            "filename": "eliminationChamberRaw.py",
+            "md5": "3328bcf2ef0729f358004428d1558c2b",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/eliminationChamberRaw.py",
+            "author": "byAng3l",
+            "category": "map/character",
+            "description": "Map",
+            "requires": [
+                "PackInstaller"
+            ]
+        },
+        "eliminationChamberSD": {
+            "filename": "eliminationChamberSD.py",
+            "md5": "5785be9861f9c8e2faaa9a7b11f7ccb3",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/eliminationChamberSD.py",
+            "author": "byAng3l",
+            "category": "map/character",
+            "description": "Map",
+            "requires": [
+                "PackInstaller"
+            ]
+        },
+        "gotchaMap": {
+            "filename": "gotchaMap.py",
+            "md5": "875cef661080d17115055d3beeb3dd1f",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/gotchaMap.py",
+            "author": "byAng3l",
+            "category": "map/character",
+            "description": "Map",
+            "requires": [
+                "PackInstaller"
+            ]
         }
     }
 }
