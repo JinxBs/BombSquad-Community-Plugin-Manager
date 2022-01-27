@@ -661,6 +661,36 @@
             "requires": [
                 "PackInstaller"
             ]
+        },
+        "arenaminigoreMap": {
+            "filename": "arenaminigoreMap.py",
+            "md5": "e1414d7092ff2e78f70c01a0a467ff6e",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/arenaminigoreMap.py",
+            "author": "byAng3l",
+            "category": "map/character",
+            "description": "Map",
+            "requires": [
+                "PackInstaller"
+            ]
+        },
+        "gravityFallsMap": {
+            "filename": "gravityFallsMap.py",
+            "md5": "81d4cc734537e70cfd8f91d28b0a0cae",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/gravityFallsMap.py",
+            "author": "byAng3l",
+            "category": "map/character",
+            "description": "Map",
+            "requires": [
+                "PackInstaller"
+            ]
+        },
+        "allMapsInOne": {
+            "filename": "allMapsInOne.py",
+            "md5": "575f5364d68bd77dd651639c90f234bf",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/allMapsInOne.py",
+            "author": "Jinx",
+            "category": "map/character",
+            "description": "Map"
         }
     }
 }
