@@ -1,11 +1,13 @@
-#inspired by byAng3l's Package Installer
+# inspired by byAng3l's Package Installer
 import ba, _ba
 import threading
 import os
 from hashlib import md5
 import urllib.request
+import ssl
 
-check_md5 = False
+ssl._create_default_https_context = ssl._create_unverified_context
+check_md5 = True
 
 class PackInstaller:
     def __init__(self, name, package_files):
