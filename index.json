@@ -359,10 +359,11 @@
         },
         "PackInstaller": {
             "filename": "PackInstaller.py",
-            "md5": "06150adae329dc382080c7a617b68ac1",
+            "md5": "28efbeba965bd5df2eb0a708f19afc3b",
+            "old_md5s": "06150adae329dc382080c7a617b68ac1",
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/PackInstaller.py",
             "author": "Jinx",
-            "description": "Installs files from github."
+            "description": "Installs files from github"
         },
         "bikiniBottomMap": {
             "filename": "bikiniBottomMap.py",
