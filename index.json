@@ -691,6 +691,14 @@
             "author": "Jinx",
             "category": "map/character",
             "description": "Map"
+        },
+        "omegaMaps": {
+            "filename": "omegaMaps.py",
+            "md5": "12584361ba4c61dba2636cdeec013acb",
+            "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/omegaMaps.py",
+            "author": "Droopy",
+            "category": "map/character",
+            "description": "Maps for omega server"
         }
     }
 }
