@@ -417,7 +417,7 @@ class DoubleBridgit(ba.Map):
             'tex': ba.gettexture('bridgitLevelColor'),
             'model_bg_tex': ba.gettexture('natureBackgroundColor'),
             'collide_bg': ba.getcollidemodel('natureBackgroundCollide'),
-            'railing_collide_model': (ba.getcollidemodel('bridgitLevelRailingCollide')),
+            'railing_collide_model': (ba.getcollidemodel('bridgitLevelRailingCollide1')),
             'bg_material': ba.Material()
         }
         data['bg_material'].add_actions(actions=('modify_part_collision',
