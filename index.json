@@ -360,7 +360,7 @@
         "PackInstaller": {
             "filename": "PackInstaller.py",
             "md5": "28efbeba965bd5df2eb0a708f19afc3b",
-            "old_md5s": "06150adae329dc382080c7a617b68ac1",
+            "old_md5s": ["06150adae329dc382080c7a617b68ac1"],
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/PackInstaller.py",
             "author": "Jinx",
             "description": "Installs files from github"
@@ -694,7 +694,8 @@
         },
         "omegaMaps": {
             "filename": "omegaMaps.py",
-            "md5": "12584361ba4c61dba2636cdeec013acb",
+            "md5": "95c7b3c736759c28510418a3afd9fc2d",
+            "old_md5s": ["12584361ba4c61dba2636cdeec013acb"],
             "url": "https://raw.githubusercontent.com/JinxBs/BombSquad-Community-Plugin-Manager/master/plugins/omegaMaps.py",
             "author": "Droopy",
             "category": "map/character",
